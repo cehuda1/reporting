@@ -15,7 +15,7 @@ Alat ini digunakan untuk menghasilkan template laporan keamanan yang terstruktur
 Pastikan Anda memiliki Python yang terinstal. Jika belum, instal Python dari python.org atau melalui manajer paket yang sesuai dengan sistem operasi Anda.
 
 
-Penggunaan
+## Penggunaan
 
 Jalankan alat melalui perintah berikut di terminal:
 
@@ -30,7 +30,7 @@ Jalankan alat melalui perintah berikut di terminal:
 
    Simpan laporan yang dihasilkan dalam format yang sesuai, seperti PDF atau HTML.
 
-Kontribusi
+## Kontribusi
 
 Kami menyambut kontribusi dari komunitas keamanan. Jika Anda ingin berkontribusi pada proyek ini, silakan buat cabang baru, lakukan perubahan, dan ajukan pull request. Kami akan dengan senang hati meninjau kontribusi Anda.
 Lisensi
