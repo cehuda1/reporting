@@ -6,33 +6,27 @@ Alat ini digunakan untuk menghasilkan template laporan keamanan yang terstruktur
 
 1. Clone repositori ini ke lokal Anda:
 
-   ```bash
+   ```
    git clone https://github.com/cehuda/reporting.git
-
-    Buka direktori proyek:
-
-    bash
-
-cd reporting
+   cd reporting
 
 Pastikan Anda memiliki Python yang terinstal. Jika belum, instal Python dari python.org atau melalui manajer paket yang sesuai dengan sistem operasi Anda.
 
 
 Penggunaan
 
-    Jalankan alat melalui perintah berikut di terminal:
+Jalankan alat melalui perintah berikut di terminal:
 
-    bash
 
-    python report.py
+    python3 report.py
 
-    Pilih jenis temuan keamanan yang ingin Anda laporkan.
+   Pilih jenis temuan keamanan yang ingin Anda laporkan.
 
-    Ikuti petunjuk yang diberikan untuk mengisi data temuan keamanan, seperti deskripsi, dampak, bukti konsep, dan cuplikan gambar.
+   Ikuti petunjuk yang diberikan untuk mengisi data temuan keamanan, seperti deskripsi, dampak, bukti konsep, dan cuplikan gambar.
 
-    Alat akan menghasilkan laporan keamanan dalam format yang sesuai dengan jenis temuan yang Anda pilih.
+   Alat akan menghasilkan laporan keamanan dalam format yang sesuai dengan jenis temuan yang Anda pilih.
 
-    Simpan laporan yang dihasilkan dalam format yang sesuai, seperti PDF atau HTML.
+   Simpan laporan yang dihasilkan dalam format yang sesuai, seperti PDF atau HTML.
 
 Kontribusi
 
