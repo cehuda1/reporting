@@ -1,5 +1,5 @@
 # Reporting Template Generator
-![Screenshot](image.png)
+![Alt Text](image.png)
 
 Alat ini digunakan untuk menghasilkan template laporan keamanan yang terstruktur untuk berbagai jenis temuan keamanan, seperti XSS, RCE, IDOR, dan lainnya. Alat ini akan membantu Anda dalam menyusun laporan dengan cepat dan konsisten.
 
