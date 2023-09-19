@@ -39,7 +39,3 @@ Proyek ini dilisensikan di bawah MIT License - lihat LICENSE untuk detailnya.
 Kontak
 
 Jika Anda memiliki pertanyaan atau masukan, silakan hubungi kami di cehuda2@gmail.com.
-
-Catatan:
-
-Pastikan untuk mengganti informasi seperti nama pengguna GitHub, alamat email, dan kontak sesuai dengan proyek Anda. Selain itu, pastikan alat yang terkandung dalam repository ini benar-benar dapat menghasilkan template laporan sesuai dengan kebutuhan proyek Anda.
