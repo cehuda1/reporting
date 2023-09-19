@@ -1,13 +1,15 @@
 # Reporting Template Generator
+![Screenshot](image.png)
 
 Alat ini digunakan untuk menghasilkan template laporan keamanan yang terstruktur untuk berbagai jenis temuan keamanan, seperti XSS, RCE, IDOR, dan lainnya. Alat ini akan membantu Anda dalam menyusun laporan dengan cepat dan konsisten.
 
 ## Instalasi
 
 1. Clone repositori ini ke lokal Anda:
-
    ```
+
    git clone https://github.com/cehuda/reporting.git
+   
    cd reporting
 
 Pastikan Anda memiliki Python yang terinstal. Jika belum, instal Python dari python.org atau melalui manajer paket yang sesuai dengan sistem operasi Anda.
